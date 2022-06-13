@@ -104,6 +104,13 @@ Use your knowledge of HTML and Bootstrap to customize the webpage for your dashb
     - Change the layout of the page.
     - Add a navigation bar that allows you to select the bar or bubble chart on the page.
 
+> Plots downloaded as `.png`
+
+![name-of-you-image](https://github.com/DataJew/Plotly-Belly-Button-Biodiversity/blob/main/Resources/Images/newplot%20(1).png)
+
+![name-of-you-image](https://github.com/DataJew/Plotly-Belly-Button-Biodiversity/blob/main/Resources/Images/newplot%20(2).png)
+
+![name-of-you-image](https://github.com/DataJew/Plotly-Belly-Button-Biodiversity/blob/main/Resources/Images/newplot%20(3).png)
 
 > Visit the dasboard produced with Plotly below!
 
