@@ -15,7 +15,7 @@ Using your knowledge of JavaScript, Plotly, and D3.js, create a horizontal bar c
 
 Your bar chart should look like the following image:
 
-![name-of-you-image](https://github.com/DataJew/Plotly-Belly-Button-Biodiversity)
+![name-of-you-image](https://github.com/DataJew/Plotly-Belly-Button-Biodiversity/blob/main/Resources/Images/bar_chart.PNG)
 
 
 1. Code is written to create the arrays when a sample is selected from the dropdown menu.
@@ -42,7 +42,7 @@ Using your knowledge of JavaScript, Plotly, and D3.js, create a bubble chart tha
 
 Your bubble chart should look like the following image:
 
-![name-of-you-image](https://github.com/DataJew/Plotly-Belly-Button-Biodiversity)
+![name-of-you-image](https://github.com/DataJew/Plotly-Belly-Button-Biodiversity/blob/main/Resources/Images/bubble_chart.PNG)
 
 1. The code for the trace object in the `buildCharts()`; function does the following:
     - Sets the `otu_ids` as the x-axis values
@@ -63,7 +63,7 @@ Using your knowledge of JavaScript, Plotly, and D3.js, create a gauge chart that
 
 Your gauge chart should look similar to the following image:
 
-![name-of-you-image](https://github.com/DataJew/Plotly-Belly-Button-Biodiversity)
+![name-of-you-image](https://github.com/DataJew/Plotly-Belly-Button-Biodiversity/blob/main/Resources/Images/gauge_chart.PNG)
 
 1. The code to build the gauge chart does the following:
     - Creates a title for the chart.
@@ -107,4 +107,4 @@ Use your knowledge of HTML and Bootstrap to customize the webpage for your dashb
 
 > Visit the dasboard produced with Plotly below!
 
-[`Belly Button Biodiversity Dashboard`](https://datajew.github.io/Plotly-Belly-Button-Biodiversity/). 
+[`Belly Button Biodiversity Dashboard`](https://datajew.github.io/Plotly-Belly-Button-Biodiversity/)
